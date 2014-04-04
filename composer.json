@@ -1,0 +1,16 @@
+{
+    "name": "root/inovia-training",
+    "description": "training inovia for using git",
+    "require": {
+        "hoa/console": "dev-master",
+        "hoa/router": "dev-master",
+        "hoa/dispatcher": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Alexis von Glasow",
+            "email": "vonglasow@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
