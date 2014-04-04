@@ -14,7 +14,8 @@ $autocomplete = array(
     'awesome',
     'inovia',
     'git status',
-    'pierre is the ???',
+    'pierre is the ???',,
+    'INTEGRAAAAA HAIREUUUBROUKE SAYYYNAGUÉÉÉÉ HÉLLEUUUUUSINNNNEEEUUUGEUUUU'
 );
 
 print_r($autocomplete);
