@@ -14,7 +14,7 @@ $autocomplete = array(
     'awesome',
     'inovia',
     'git status',
-    'pierre is the best',
+    'pierre is the ???',
 );
 
 print_r($autocomplete);
