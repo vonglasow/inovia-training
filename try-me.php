@@ -4,7 +4,7 @@ require 'vendor/autoload.php';
 
 echo 'PHP 5.5 require to works correctly' . PHP_EOL;
 
-echo 'abcdef', "\n",
+echo 'qwerty', "\n",
      'ghijkl', "\n",
      'mnopqr', "\n",
      'stuvwx';
