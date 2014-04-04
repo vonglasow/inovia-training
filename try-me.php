@@ -19,7 +19,7 @@ Hoa\Console\Cursor::move('←', 3);
 sleep(1);
 
 Hoa\Console\Cursor::clear('↔');
-echo 'hello world';
+echo 'Hello world!';
 
 // Save cursor position.
 Hoa\Console\Cursor::save();
