@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "74a9ebe24b913dd935b9bab314937608",
+    "hash": "0441c38ddc24f6d97348c5040a52de7d",
     "packages": [
         {
             "name": "hoa/console",
@@ -140,12 +140,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hoaproject/Dispatcher.git",
-                "reference": "a488c38e8c7b0d97c77824b5e6fb5ccf58b3a1cf"
+                "reference": "29860236b5956a51f5bc547e71d25f39d45766ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hoaproject/Dispatcher/zipball/a488c38e8c7b0d97c77824b5e6fb5ccf58b3a1cf",
-                "reference": "a488c38e8c7b0d97c77824b5e6fb5ccf58b3a1cf",
+                "url": "https://api.github.com/repos/hoaproject/Dispatcher/zipball/29860236b5956a51f5bc547e71d25f39d45766ba",
+                "reference": "29860236b5956a51f5bc547e71d25f39d45766ba",
                 "shasum": ""
             },
             "require": {
@@ -182,7 +182,7 @@
                 "kit",
                 "library"
             ],
-            "time": "2014-03-28 11:16:51"
+            "time": "2014-03-28 11:23:52"
         },
         {
             "name": "hoa/router",
@@ -345,11 +345,14 @@
     "aliases": [
 
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "stability-flags": {
+        "hoa/core": 20,
         "hoa/console": 20,
         "hoa/router": 20,
-        "hoa/dispatcher": 20
+        "hoa/dispatcher": 20,
+        "hoa/string": 20,
+        "hoa/stream": 20
     },
     "platform": [
 
